@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="kapilpatil7" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+    <img src="https://wallpapercave.com/wp/wp7848351.png" alt="Full Width Banner" style="width: 100%; max-width: 800px;">
+</div>
 
 - 🔭 I’m currently working on **DevOps**
 
