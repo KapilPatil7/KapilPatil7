@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="kapilpatil7" /> </p>
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400" style="float: right;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **DevOps**
 
