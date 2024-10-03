@@ -33,5 +33,5 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpatil7&" alt="kapilpatil7" />
     </p>
-</div>
+
 
