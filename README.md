@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpatil7&" alt="kapilpatil7" /></p>
 
 ### My GitHub Contributions
-1[Snake animation](https://github.com/KapilPatil7/jaiswalad1246/blob/output/github-contribution-grid-snake.svg)
+1[Snake animation](https://github.com/KapilPatil7/KapilPatil7/blob/output/github-contribution-grid-snake.svg)
